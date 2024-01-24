@@ -1,0 +1,18 @@
+body {
+    background-color: #05041f;
+    text-align: center;
+}
+
+#title {
+    padding-top:80px;
+    font-size: 40px;
+}
+
+.text {
+    color: #d9d9d9;
+    font-size: 20px;
+}
+
+.line {
+    display:inline-block;
+}
